@@ -53,7 +53,7 @@ body {
 
   color: #32403b;
 }
-.Input {
+.input {
   position: absolute;
   width: 375px;
   height: 55px;
@@ -65,10 +65,10 @@ body {
   box-sizing: border-box;
   border-radius: 10px;
 }
-#Email {
+#email {
   top: 166px;
 }
-#Password {
+#password {
   top: 236px;
 }
 .btn-create-account {
